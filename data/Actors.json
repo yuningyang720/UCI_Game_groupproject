@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"SF_Actor2_2","characterIndex":1,"characterName":"SF_Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"SF_Actor2","traits":[],"initialLevel":30,"maxLevel":30,"name":"Mo","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":4,"characterName":"SF_Monster","classId":2,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"SF_Monster","traits":[],"initialLevel":30,"maxLevel":30,"name":"Ai","nickname":"","note":"","profile":""}
+]
